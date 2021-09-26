@@ -4,8 +4,12 @@
 
 
 1. Architektura informacji
-2. Copywrighting
-3. UI/UX
+  3 aspekty IA
+  - kontekst
+  - informacje
+  - odbiorcyi ich model mentalny
+3. Copywrighting
+4. UI/UX
 
 https://miroslawzelent.pl/kurs-php/
 
@@ -27,6 +31,8 @@ https://zebza.net/architektura-informacji-co-to-jest/
 
 https://www.elementtalks.com/articles/227-architektura-informacji-co-to-takiego/
 
+https://sempai.pl/blog/seo-copywriting/
+
 ```
 ZADANIA:
 
@@ -34,7 +40,7 @@ ZAD T40201: Zainstaluj Wordpress na zdalnym serwerze
 
 ZAD T40202 Zbuduj system CMS dla prostego bloga z możliwością dodawania postów przez zalogowanych użytkowników. Post może zawierać obraz i czas dodania posta. Stwórz uproszczony system autoryzacji edytora (użytkownika) z poświadczeniami zdefiniowanymi w osobnym pliku php. Zadanie wykonane umieść w zdalnym repozytorium git
 
-ZAD T40203: Zaplanuj i wykonaj serwis w Wordpress wykorzystując darmowy szablon z następującej tematyki:
+ZAD T40203: Zaplanuj i wykonaj serwis w Wordpress wykorzystując darmowy szablon z następującej kategorii:
 - Portfolio fotograficzne
 - Kancelaria prawnicza,
 - Agencja nieruchomości,
