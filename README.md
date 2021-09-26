@@ -11,6 +11,11 @@
 3. Copywrighting
 4. UI/UX
 
+GOOGLE DRIVE:
+
+https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
+
+
 https://miroslawzelent.pl/kurs-php/
 
 https://miroslawzelent.pl/kurs-mysql/
@@ -25,7 +30,7 @@ https://www.youtube.com/watch?v=6dvtC6XxdIs
 
 https://www.youtube.com/watch?v=p0CYjMoXilo
 
-https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
+https://webwavecms.com/blog/jak-zostac-webdesignerem#skad-czerpac-informacje
 
 https://zebza.net/architektura-informacji-co-to-jest/
 
