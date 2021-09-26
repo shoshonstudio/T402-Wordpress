@@ -5,7 +5,7 @@
 
 1. Architektura informacji
 2. Copywrighting
-3. WebDesign
+3. UI/UX
 
 https://miroslawzelent.pl/kurs-php/
 
