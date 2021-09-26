@@ -23,6 +23,7 @@ https://www.youtube.com/watch?v=p0CYjMoXilo
 
 https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
+https://zebza.net/architektura-informacji-co-to-jest/
 
 https://www.elementtalks.com/articles/227-architektura-informacji-co-to-takiego/
 
